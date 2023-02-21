@@ -1,0 +1,21 @@
+p {
+    font-style: normal;
+    font-weight: 100;
+    font-family: calibri;
+    font-size: 20px;
+    color: goldenrod;
+}
+.tropical {
+    font-family: fantasy;
+    color: #f7325e;
+}
+.popular {
+    font-family: Tahoma;
+    color: green;
+}
+p.tropical {
+    color: #7dc410;
+}
+p.popular {
+    color: forestgreen;
+}
