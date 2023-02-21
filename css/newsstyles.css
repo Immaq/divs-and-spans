@@ -1,12 +1,5 @@
-h2.introduction {
-    font-style: italic;
-    background-color: bisque;
-}
-p.introduction {
+
+.introduction {
     font-style: oblique;
-    background-color: blueviolet;
-}
-img.introduction {
-    background: scroll;
-    background-color: crimson;
+    background-color: blueviolet; 
 }
